@@ -23,5 +23,5 @@
     else Console.WriteLine("New array: []");
 }
 
-string[] arr = { "7dklb", "6789", "4e5d", "hgj", "yj", "5ghjck", "5hfls", "67h", "7sgdj", "fghjl" };
+string[] arr = { "5t", "7dklb", "6789", "4e5d", "hgj", "yj", "5ghjck", "5hfls", "67h", "7sgdj", "fghjl", "tyj" };
 TransferArrayElem(arr);
