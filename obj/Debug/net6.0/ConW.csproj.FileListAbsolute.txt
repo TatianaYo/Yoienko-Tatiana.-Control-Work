@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ConW\bin\Debug\net6.0\ConW.exe
+C:\Users\Пользователь\Desktop\ConW\bin\Debug\net6.0\ConW.deps.json
+C:\Users\Пользователь\Desktop\ConW\bin\Debug\net6.0\ConW.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ConW\bin\Debug\net6.0\ConW.dll
+C:\Users\Пользователь\Desktop\ConW\bin\Debug\net6.0\ref\ConW.dll
+C:\Users\Пользователь\Desktop\ConW\bin\Debug\net6.0\ConW.pdb
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.dll
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ref\ConW.dll
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.pdb
+C:\Users\Пользователь\Desktop\ConW\obj\Debug\net6.0\ConW.genruntimeconfig.cache
